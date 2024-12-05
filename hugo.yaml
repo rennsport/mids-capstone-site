@@ -77,6 +77,9 @@ params:
     facebook:
       enabled: false
       url: 'https://facebook.com/nusserstudios'
+    berkeley:
+      enabled: true
+      url: ''
     instagram:
       enabled: false
       url: 'https://instagram.com/nusserstudios'
