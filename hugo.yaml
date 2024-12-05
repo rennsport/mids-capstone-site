@@ -73,7 +73,7 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/ChiBerkeley/function-calling-project'
     facebook:
       enabled: false
       url: 'https://facebook.com/nusserstudios'
