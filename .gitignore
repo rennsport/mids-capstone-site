@@ -7,4 +7,4 @@ yarn-error.log
 # Local Netlify folder
 .netlify
 yarn-error.log
-static/images/.DS_Store
+.DS_Store
