@@ -23,7 +23,7 @@ featured_image:
     <td style="width: 25%; padding: 10px; vertical-align: top;">
       <img src="/images/team_photos/chi.jpg" style="width: 100%; height: auto; max-width: 200px;">
       <p style="text-align: center; font-weight: bold; font-size: 18px">Chi So</p>
-      <p style="text-align: left; width: 200px; font-size: 13px">Technical Project Manager | Evaluation Pipeline | AWS Engineering</p>
+      <p style="text-align: left; width: 200px; font-size: 13px">Technical Project Management | Evaluation Pipeline | AWS Engineering</p>
     </td>
     <td style="width: 25%; padding: 10px; vertical-align: top;">
       <img src="/images/team_photos/edward.png" style="width: 100%; height: auto; max-width: 200px;">
