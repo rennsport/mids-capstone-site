@@ -56,8 +56,8 @@ params:
   disable_stay_uptodate: false
 
   p1:
-    heading: "Our mission is to"
-    image: "images/pages/our-mission.png"
+    heading: "We strive to"
+    image: "images/pages/mission.jpg"
     content:
       - text: "Empower businesses with advanced function calling capabilities through our data generation pipeline"
       - text: "Enhance the efficiency and accuracy of B2B operations by improving AI-powered functions"
