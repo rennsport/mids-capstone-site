@@ -51,7 +51,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Unlock the Potential of Function Calling Through Reliable Synthetic Data"
-  description: "A cutting-edge data generation pipeline created to revolutionize the world of large language models (LLMs) and function calling. Built with care, this powerful tool leverages the latest technologies to deliver unparalleled performance and flexibility while prioritizing privacy."
+  description: "A cutting-edge data generation pipeline created to revolutionize the world of large language models (LLMs) and function calling. Built with care, our powerful tool leverages the latest technologies to deliver unparalleled performance and flexibility while prioritizing privacy."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
