@@ -7,7 +7,7 @@ description: About Us
 featured_image: ../assets/images/featured/infrastructure.png
 ---
 
-Our product integrates data generation with function-calling, addressing limitations and challenges current LLMs suffer from. The infrastructure comprises three main modular components: data generation, data evaluation, and model fine-tuning using SageMaker.
+Our product integrates data generation with function-calling, addressing limitations and challenges current large language models suffer from. The infrastructure comprises three main modular components: data generation, data evaluation, and model fine-tuning using SageMaker.
 
 ## Data Generation
 The data generation pipeline has four key steps: function creation, model execution, structuring responses, and prompt iteration.
