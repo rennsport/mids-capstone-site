@@ -79,7 +79,7 @@ params:
       url: 'https://facebook.com/nusserstudios'
     berkeley:
       enabled: true
-      url: ''
+      url: 'https://www.ischool.berkeley.edu/projects/2024/synthcall'
     instagram:
       enabled: false
       url: 'https://instagram.com/nusserstudios'
