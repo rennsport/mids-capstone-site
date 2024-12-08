@@ -4,10 +4,10 @@ date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
 description: About Us
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+featured_image: ../assets/images/featured/ProductPageImage.jpg
 ---
 
-Unlock the Power of Function Calling with SynthCall
+Unlock the Power of Function Calling with SynthCall!
 
 Welcome to SynthCall, where reliable synthetic data generation meets advanced function-calling. Our platform revolutionizes the way large language models (LLMs) are fine-tuned to incorporate function calling; ensuring efficiency, security, and precision in every query.
 
