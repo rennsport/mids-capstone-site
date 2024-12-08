@@ -36,7 +36,9 @@ description: Explanation of Function Calling
 
 <div class="wide-image-container">
   <img src="/images/tool_call_example.png" alt="Tool Call Example" class="wide-image">
-  <p class="image-caption">Source: <a href="https://python.langchain.com/docs/concepts/tool_calling/#tool-calling-1" target="_blank">LangChain</a></p>
+  <p class="image-caption text-gray-900 dark:text-white">
+    Image Source: <a href="https://python.langchain.com/docs/concepts/tool_calling/#tool-calling-1" target="_blank" class="text-blue-600 dark:text-blue-400 underline hover:underline focus:underline">LangChain</a>
+  </p>
 </div>
 
 Function calling, also known as tool use, in ML is a powerful feature that allows large language models (LLMs) to interact with external tools, APIs, and systems in order to perform specific tasks beyond their their basic inference capabilities. This feature extends the functionality of LLMs by enabling them to execute actions, retrieve real-time data, and interact dynamically with other systems, significantly enhancing their versatility and problem-solving capabilities.

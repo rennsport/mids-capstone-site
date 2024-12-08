@@ -49,11 +49,14 @@
                         {{ $p1image := resources.Get .Site.Params.P1.Image }}
                         {{ with $p1image }}
                         {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-                        <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="w-full h-auto" alt="P1" loading="lazy" />
+                        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="w-full h-auto" alt="P1" loading="lazy" />
                         {{ end }}
                         {{ end }}
                     </div>
-                </div>
+                    <div class="mt-2 text-left">
+                        <i class="text-gray-900 dark:text-white">Image Source: <a href="https://www.oltechsolutions.co.in/about-us/vision-mission/" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 underline">Ol Tech Solutions</a></i>
+                    </div>                    
+                </div>   
             </div>
             <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0">
                 <div class="md:pt-12 sm:pt-6 lg:pt-20">
@@ -109,11 +112,13 @@
                     {{ $p2image := resources.Get .Site.Params.P2.Image }}
                     {{ with $p2image }}
                     {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none" loading="lazy" />
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none" loading="lazy" />
                     {{ end }}
                     {{ end }}
-
-                </div>
+                    <div class="mt-2 text-left">
+                        <i class="text-gray-900 dark:text-white">Image Source: <a href="https://insilicotrials.com/revolutionizing-healthcare-the-emergence-and-impact-of-synthetic-data-in-life-sciences/" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 underline">InSilicoTrials</a></i>
+                    </div>                    
+                </div>                               
             </div>
         </div>
     </div>
