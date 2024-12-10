@@ -51,7 +51,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Unlock the Potential of Function Calling Through Reliable Synthetic Data"
-  description: "A cutting-edge data generation pipeline created to revolutionize the world of large language models (LLMs) and function calling. Built with care, our powerful tool leverages the latest technologies to deliver unparalleled performance and flexibility while prioritizing privacy."
+  description: "SynthCall is A cutting-edge data generation pipeline created to revolutionize the world of large language models (LLMs) and function calling. Built with care, our powerful tool leverages the latest technologies to deliver unparalleled performance and flexibility while prioritizing privacy."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -66,8 +66,8 @@ params:
     heading: "Problem and Motivation"
     image: "images/pages/synthetic-data.png"
     content:
-      - text: "Current solutions for AI- driven tasks such as retrieval-augmented generation (RAG) struggle with logical operations and immediate information retrieval. Conventional fine-tuning approaches require human-generated data which can be expensive to obtain. Thus, our team chose to turn to function calling with synthetic data to explore viable alternatives to expensive and complex models."
-      - text: "Synthetic data is projected to account for 60% of all data used in AI, and presents a significant alternative to human-generated data, while improving accuracy and efficiency. By fine-tuning smaller, more efficient models and developing a low-cost synthetic data pipeline, the project aims to enhance model performance for businesses to implement into their workflow."
+      - text: "Current solutions for AI-driven tasks such as retrieval-augmented generation struggle with logical operations and immediate information retrieval. Conventional fine-tuning approaches require human-generated data which can be expensive to obtain. Thus, our team chose to turn to function calling with synthetic data to explore viable alternatives to expensive and complex models."
+      - text: "Synthetic data is projected to account for 60% of all data used in AI and presents a significant alternative to human-generated data, while improving accuracy and efficiency. By fine-tuning smaller, more efficient models and developing a low-cost synthetic data pipeline, SynthCall aims to enhance model performance for businesses to implement into their workflow."
       - text: "Function calling enables precise execution of user-defined logic, allowing LLMs to handle tasks that require structured and accurate outputs. This capability, combined with synthetic data generation, reduces the reliance on expensive vector databases and streamlines the automation of repetitive tasks. By focusing on the development of scalable and cost-effective solutions, our team aims to address critical gaps in AI workflows, such as maintaining data integrity, ensuring model transparency, and enhancing operational efficiency."
 
   social_media:
